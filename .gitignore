@@ -6,3 +6,23 @@ __pycache__/
 .DS_Store
 *.pyc
 *.ipynb_checkpoints
+# Tableau workbook files
+*.twb
+*.twbx
+
+# Tableau data extract files
+*.hyper
+
+# Tableau log files
+*.log
+
+# Tableau temporary files
+*.tde.temp
+*.tmp
+
+# Tableau data source files
+*.tds
+*.tdsx
+
+# Tableau packaged workbook files
+*.packaged.twbx
